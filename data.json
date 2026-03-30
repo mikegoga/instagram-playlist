@@ -1,0 +1,95 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "image": "https://picsum.photos/300?random=1",
+      "title": "HUGEL",
+      "author": {
+        "name": "Afro House",
+        "avatar": "https://i.pravatar.cc/50?img=12"
+      }
+    },
+    {
+      "id": 2,
+      "image": "https://picsum.photos/300?random=2",
+      "title": "FISHER",
+      "author": {
+        "name": "Tech House",
+        "avatar": "https://i.pravatar.cc/50?img=22"
+      }
+    },
+    {
+      "id": 3,
+      "image": "https://picsum.photos/300?random=3",
+      "title": "Fred again..",
+      "author": {
+        "name": "Electronic",
+        "avatar": "https://i.pravatar.cc/50?img=32"
+      }
+    },
+    {
+      "id": 4,
+      "image": "https://picsum.photos/300?random=4",
+      "title": "Dom Dolla",
+      "author": {
+        "name": "House",
+        "avatar": "https://i.pravatar.cc/50?img=42"
+      }
+    },
+
+    {
+      "id": 5,
+      "image": "https://picsum.photos/300?random=5",
+      "title": "RÜFÜS DU SOL",
+      "author": {
+        "name": "Live Electronic",
+        "avatar": "https://i.pravatar.cc/50?img=52"
+      }
+    },
+    {
+      "id": 6,
+      "image": "https://picsum.photos/300?random=6",
+      "title": "PAWSA",
+      "author": {
+        "name": "Tech House",
+        "avatar": "https://i.pravatar.cc/50?img=62"
+      }
+    },
+    {
+      "id": 7,
+      "image": "https://picsum.photos/300?random=7",
+      "title": "Keinemusik",
+      "author": {
+        "name": "Afro / Deep House",
+        "avatar": "https://i.pravatar.cc/50?img=72"
+      }
+    },
+    {
+      "id": 8,
+      "image": "https://picsum.photos/300?random=8",
+      "title": "it's murph",
+      "author": {
+        "name": "House",
+        "avatar": "https://i.pravatar.cc/50?img=82"
+      }
+    },
+    {
+       "id": 9,
+       "image": "https://picsum.photos/300?random=9",
+       "title": "Calvin Harris",
+       "author": {
+          "name": "Dance / EDM",
+          "avatar": "https://i.pravatar.cc/50?img=92"
+     }
+    },
+    {
+      "id": 10,
+      "image": "https://picsum.photos/300?random=10",
+      "title": "CamelPhat",
+      "author": {
+         "name": "House / Techno",
+        "avatar": "https://i.pravatar.cc/50?img=95"
+     }
+    }
+  ]
+}
