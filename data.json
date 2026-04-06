@@ -1,95 +1,101 @@
-{
-  "data": [
-    {
-      "id": 1,
-      "image": "https://picsum.photos/300?random=1",
-      "title": "HUGEL",
-      "author": {
-        "name": "Afro House",
-        "avatar": "https://i.pravatar.cc/50?img=12"
-      }
-    },
-    {
-      "id": 2,
-      "image": "https://picsum.photos/300?random=2",
-      "title": "FISHER",
-      "author": {
-        "name": "Tech House",
-        "avatar": "https://i.pravatar.cc/50?img=22"
-      }
-    },
-    {
-      "id": 3,
-      "image": "https://picsum.photos/300?random=3",
-      "title": "Fred again..",
-      "author": {
-        "name": "Electronic",
-        "avatar": "https://i.pravatar.cc/50?img=32"
-      }
-    },
-    {
-      "id": 4,
-      "image": "https://picsum.photos/300?random=4",
-      "title": "Dom Dolla",
-      "author": {
-        "name": "House",
-        "avatar": "https://i.pravatar.cc/50?img=42"
-      }
-    },
-
-    {
-      "id": 5,
-      "image": "https://picsum.photos/300?random=5",
-      "title": "RÜFÜS DU SOL",
-      "author": {
-        "name": "Live Electronic",
-        "avatar": "https://i.pravatar.cc/50?img=52"
-      }
-    },
-    {
-      "id": 6,
-      "image": "https://picsum.photos/300?random=6",
-      "title": "PAWSA",
-      "author": {
-        "name": "Tech House",
-        "avatar": "https://i.pravatar.cc/50?img=62"
-      }
-    },
-    {
-      "id": 7,
-      "image": "https://picsum.photos/300?random=7",
-      "title": "Keinemusik",
-      "author": {
-        "name": "Afro / Deep House",
-        "avatar": "https://i.pravatar.cc/50?img=72"
-      }
-    },
-    {
-      "id": 8,
-      "image": "https://picsum.photos/300?random=8",
-      "title": "it's murph",
-      "author": {
-        "name": "House",
-        "avatar": "https://i.pravatar.cc/50?img=82"
-      }
-    },
-    {
-       "id": 9,
-       "image": "https://picsum.photos/300?random=9",
-       "title": "Calvin Harris",
-       "author": {
-          "name": "Dance / EDM",
-          "avatar": "https://i.pravatar.cc/50?img=92"
-     }
-    },
-    {
-      "id": 10,
-      "image": "https://picsum.photos/300?random=10",
-      "title": "CamelPhat",
-      "author": {
-         "name": "House / Techno",
-        "avatar": "https://i.pravatar.cc/50?img=95"
-     }
+[
+  {
+    "id": 1,
+    "image": "./images/fisher.jpeg",
+    "title": "FISHER",
+    "caption": "Losing It!",
+    "author": {
+      "name": "Tech House"
     }
-  ]
-}
+  },
+  {
+    "id": 2,
+    "image": "./images/hugel.jpeg",
+    "title": "HUGEL",
+    "caption": "Latin house energy all summer",
+    "author": {
+      "name": "House / Latin"
+    }
+  },
+  {
+    "id": 3,
+    "image": "./images/fredagain.webp",
+    "title": "Fred again..",
+    "caption": "We've lost dancing...",
+    "author": {
+      "name": "UK Electronic"
+    }
+  },
+  {
+    "id": 4,
+    "image": "./images/domdolla.jpeg",
+    "title": "Dom Dolla",
+    "caption": "Dom Dollapalooza!!",
+    "author": {
+      "name": "Tech House"
+    }
+  },
+  {
+    "id": 5,
+    "image": "./images/johnsummit.jpeg",
+    "title": "John Summit",
+    "caption": "John & Dom",
+    "author": {
+      "name": "House"
+    }
+  },
+  {
+    "id": 6,
+    "image": "./images/rufus.jpeg",
+    "title": "RÜFÜS DU SOL",
+    "caption": "Until the sun needs to rise 🌅",
+    "author": {
+      "name": "Live Electronic"
+    }
+  },
+  {
+    "id": 7,
+    "image": "./images/pawsa.jpeg",
+    "title": "PAWSA",
+    "caption": "ALL EYEZ ON YOU",
+    "author": {
+      "name": "Minimal / House"
+    }
+  },
+  {
+    "id": 8,
+    "image": "./images/keinemusik.jpeg",
+    "title": "Keinemusik",
+    "caption": "Live: Adam Port, &Me & Rampa in NYC",
+    "author": {
+      "name": "Afro / Deep House"
+    }
+  },
+  {
+    "id": 9,
+    "image": "./images/itsmurph.webp",
+    "title": "It's Murph",
+    "caption": "An experience that makes you float",
+    "author": {
+      "name": "Melodic House"
+    }
+  },
+  {
+    "id": 10,
+    "image": "./images/calvinharris.webp",
+    "title": "Calvin Harris",
+    "caption": "Still on top after 10+ years.",
+    "author": {
+      "name": "Dance / Pop"
+    }
+  },
+  {
+    "id": 11,
+    "image": "./images/camelphat.jpeg",
+    "title": "CamelPhat",
+    "caption": "All for a feeling...",
+    "author": {
+      "name": "House / Techno"
+    }
+  }
+]
